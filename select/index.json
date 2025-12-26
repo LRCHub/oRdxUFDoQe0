@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Beat It (Official 4K Video)",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-26T08:22:09.793813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Beat_It_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Beat_It_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beat It Up",
+      "artist": "Big Tymers feat. Tateeze",
+      "has_synced": false,
+      "path": "select/03_Beat_It_Up_Big_Tymers_feat._Tateeze.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Beat_It_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beat It (Demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Beat_It_(Demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Beat_It_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beat It (demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Beat_It_(demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Fall Out Boy feat. John Mayer",
+      "has_synced": true,
+      "path": "select/08_Beat_It_Fall_Out_Boy_feat._John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Fall Out Boy John Mayer",
+      "has_synced": true,
+      "path": "select/09_Beat_It_Fall_Out_Boy_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Fall Out Boy",
+      "has_synced": false,
+      "path": "select/10_Beat_It_Fall_Out_Boy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beat It",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/11_Beat_It_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beat It - Single Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Beat_It_-_Single_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beat It / State of Shock (Immortal version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Beat_It___State_of_Shock_(Immortal_version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beat It 2008 (Thriller 25th Anniversary Remix) [feat. Fergie]",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_Beat_It_2008_(Thriller_25th_Anniversary_Remix)_[feat._Fergie]_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beat It 2008 (Thriller 25th Anniversary remix)",
+      "artist": "Michael Jackson feat․ Fergie",
+      "has_synced": true,
+      "path": "select/15_Beat_It_2008_(Thriller_25th_Anniversary_remix)_Michael_Jackson_feat._Fergie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beat It Upright",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/16_Beat_It_Upright_Korn.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beat It On Down The Line",
+      "artist": "Grateful Dead",
+      "has_synced": false,
+      "path": "select/17_Beat_It_On_Down_The_Line_Grateful_Dead.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Beat_It_Michael_Jackson.txt"
+    }
+  ]
+}
